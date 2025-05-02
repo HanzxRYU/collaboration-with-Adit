@@ -7,6 +7,7 @@ function App() {
       <header className="text-3xl font-bold text-gray-800 mb-6">
         Project collaboration with Adit
       </header>
+      <h1 className="text-3xl font-bold text-gray-800 mb-6">Ini punya Udin</h1>
 
       <img
         src="oeh.jpg"
